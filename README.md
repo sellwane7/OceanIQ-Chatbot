@@ -10,7 +10,7 @@ This project was developed as a **group collaboration**.
 ---
 
 ## 🌐 Live Demo
-👉 https://sandile19991111.github.io/OceanIQ-Chatbot/
+👉 https://github.com/sellwane7/OceanIQ-Chatbot.git
 
 ---
 
