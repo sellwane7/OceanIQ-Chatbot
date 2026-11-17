@@ -1,7 +1,7 @@
 # 🌊 OceanIQ – Blue Economy Assistant Chatbot
 
 ## 📌 Overview
-OceanIQ is an AI-powered chatbot designed to educate users about the **Blue Economy**, marine life, sustainability, and ocean-related topics.
+OceanIQ chatbot is an AI-powered chatbot designed to educate users about the **Blue Economy**, marine life, sustainability, and ocean-related topics.
 
 It provides role-based responses for fishers, consumers, environmentalists, government officials, and the general public.
 
@@ -16,9 +16,9 @@ This project was developed as a **group collaboration**.
 
 ## 👥 Group Members
 - **Bongimusa Sandile Khoza** – Team Lead, Frontend Development, Testing, Deployment  
-- **Mpumi** – Research & Documentation  
-- **Joyce** – System Design & UML  
-- **Zimkhitha** – AI Prompt Engineering & Government Research  
+- **Nompumelelo Nzama** – Research & Documentation  
+- **Joyce Sellwane Mosia** – System Design & UML  
+- **Zimkhitha Bentsa** – AI Prompt Engineering & Government Research  
 
 ---
 
@@ -40,7 +40,8 @@ This project was developed as a **group collaboration**.
 - AI Prompt Engineering  
 - Claude AI  
 - Visual Studio Code  
-- GitHub Pages (Deployment)  
+- GitHub Pages (Deployment)
+- Grog for API
 
 ---
 
@@ -80,9 +81,9 @@ Full documentation is available in the `/docs` folder.
 ---
 
 ## 🏁 Conclusion
-OceanIQ demonstrates how AI and web development can be used to support environmental education and sustainability.
+OceanIQ chatbot demonstrates how AI and web development can be used to support environmental education and sustainability.
 
 ---
 
 ## 📌 Author
-Developed by **Joyce Sellwane Mosia & Team**
+Developed by **Bongimusa Khoza & Team**
